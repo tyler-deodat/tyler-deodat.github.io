@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.670348fc.css",
+    "main.js": "/static/js/main.e17c3370.js",
+    "static/media/gym site 2": "/static/media/gym site 2.04cd6365ce029588c663",
+    "static/media/Gym site 1": "/static/media/Gym site 1.7f80ad7a098c4b5c43fb",
+    "static/media/Gym site 4": "/static/media/Gym site 4.57710b9279a754c80198",
+    "static/media/Gym site 3": "/static/media/Gym site 3.98fab5b6668e367cde94",
+    "static/media/montreal picture.jpg": "/static/media/montreal picture.79d5b8b2d883d5f34ba3.jpg",
+    "static/media/Tyler Deodat Resume.pdf": "/static/media/Tyler Deodat Resume.69a2a75b0e6eb100689a.pdf",
+    "static/media/New york Picture.jpg": "/static/media/New york Picture.8df82d925c3ccf00430b.jpg",
+    "index.html": "/index.html",
+    "main.670348fc.css.map": "/static/css/main.670348fc.css.map",
+    "main.e17c3370.js.map": "/static/js/main.e17c3370.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.670348fc.css",
+    "static/js/main.e17c3370.js"
+  ]
+}
